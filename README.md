@@ -1,2 +1,1 @@
-Playing with Sprites
-"# Playing-With-Sprites" 
+# Playing-With-Sprites
